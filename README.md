@@ -1,0 +1,2 @@
+# gates-c
+C program 
