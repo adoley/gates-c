@@ -49,7 +49,7 @@ int main()
 		andOutput=andGate(notA,notB); // use and gate
 		norOutput=norGate(a,b); //use nor gate      
 		result=xorGate(andOutput,norOutput); //use xor gate
-		//circuit defination ends
+		//circuit definition ends
     		
 		printf("\n The output the circuit : ");
     		printf("%d \n",result);
