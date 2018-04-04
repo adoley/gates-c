@@ -6,3 +6,5 @@ C program to implement digital circuit using various gates: and gate, not gate, 
 (2) cd gates-c  
 (3) gcc gate.c  
 (4) ./a.out  
+
+
